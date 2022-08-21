@@ -1,8 +1,4 @@
-### HI
-🔭 currently working on a 3d game project using the Raylib library
-
-🌱 I’m currently learning arch linux, hugo, 3d collision detection
-
+###
 ⚡ migrating to this account
 
 <!--
